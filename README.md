@@ -1,8 +1,8 @@
-# Princess Matcher
-I upload a pdf for this project which we used in ComputerVision Lecture.[Computer_Vision_Sw_development_Contest.zip](https://github.com/user-attachments/files/18938343/Computer_Vision_Sw_development_Contest.zip)
+# Which_Princess_Are_you?
+I upload a pdf(The size of pdf larger than 25MB so I upload JPG) for this project which we used in ComputerVision Lecture.[Computer_Vision_Sw_development_Contest.zip](https://github.com/user-attachments/files/18938343/Computer_Vision_Sw_development_Contest.zip)
 
 ## Overview
-Princess Matcher is a Java application that determines which princess a user resembles the most based on facial recognition and image comparison. The project uses OpenCV for face detection and histogram comparison to find the best match. Additionally, a graphical user interface (GUI) is provided to allow users to drag and drop their images for analysis.
+Which_Princess_Are_you? is a Java application that determines which princess a user resembles the most based on facial recognition and image comparison. The project uses OpenCV for face detection and histogram comparison to find the best match. Additionally, a graphical user interface (GUI) is provided to allow users to drag and drop their images for analysis.
 
 ## Features
 - Face detection using OpenCV Haar cascades
