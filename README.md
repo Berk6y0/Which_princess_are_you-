@@ -69,6 +69,4 @@ princess-matcher/
 - Allow users to upload and store their results.
 - Improve GUI responsiveness and UX.
 
-## License
-This project is licensed under the MIT License.
 
